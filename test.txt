@@ -1,1 +1,3 @@
 First line in test.txt
+
+Second line - testing changes and commit/push from VSCode
